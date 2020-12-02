@@ -16,7 +16,7 @@ fontmath==0.5.0           # via fontmake, mutatormath
 fonttools[lxml,ufo,unicode]==4.0.1  # via booleanoperations, compreffor, cu2qu, defcon, fontmake, fontmath, glyphslib, mutatormath, ufo2ft, ufolib2
 fs==2.4.11                # via fonttools
 glyphslib==5.0.1          # via fontmake
-lxml==4.4.1               # via fonttools
+lxml==4.6.2               # via fonttools
 mutatormath==2.1.2        # via fontmake
 pyclipper==1.1.0.post1    # via booleanoperations
 pyparsing==2.4.2
